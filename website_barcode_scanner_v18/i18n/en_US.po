@@ -1,0 +1,19 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_barcode_scanner_v18
+# 
+# Translators:
+# Fernanda Alvarez, 2024
+# Martin Trigaux, 2024
+# Patricia Gutiérrez Capetillo <pagc@odoo.com>, 2024
+# Pilar Vargas, 2024
+# Larissa Manderfeld, 2024
+# Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2024
+# Wil Odoo, 2024
+# 
+
+
+#. module: website_barcode_scan
+#: model:ir.ui.view,arch_db:website_barcode_scan.barcode_scanner
+msgid "strEscanée un Código de Barras para ver la información del producto"
+msgstr "Scan a barcode to view product information"

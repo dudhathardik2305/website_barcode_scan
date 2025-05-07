@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_website_barcode_scanner_v18_website_barcode_scanner_v18,website_barcode_scanner_v18.website_barcode_scanner_v18,model_website_barcode_scanner_v18_website_barcode_scanner_v18,base.group_user,1,1,1,1
